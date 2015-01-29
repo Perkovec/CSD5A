@@ -5,8 +5,6 @@ Project("{FEE43618-DA81-724B-55DE-9C2F1DC4A2A8}") = "miami", "Assembly-CSharp.cs
 EndProject
 Project("{FEE43618-DA81-724B-55DE-9C2F1DC4A2A8}") = "miami", "Assembly-CSharp-Editor.csproj", "{B2D27EDB-D207-3AB2-DDC9-376B7F689B79}"
 EndProject
-Project("{FEE43618-DA81-724B-55DE-9C2F1DC4A2A8}") = "miami", "Assembly-UnityScript.unityproj", "{C0441C60-AEC8-470D-A2CF-C4FF824EF8D2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,15 +19,11 @@ Global
 		{B2D27EDB-D207-3AB2-DDC9-376B7F689B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2D27EDB-D207-3AB2-DDC9-376B7F689B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2D27EDB-D207-3AB2-DDC9-376B7F689B79}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0441C60-AEC8-470D-A2CF-C4FF824EF8D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0441C60-AEC8-470D-A2CF-C4FF824EF8D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0441C60-AEC8-470D-A2CF-C4FF824EF8D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0441C60-AEC8-470D-A2CF-C4FF824EF8D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-									GlobalSection(MonoDevelopProperties) = preSolution
+															GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
